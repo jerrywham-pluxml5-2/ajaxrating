@@ -2,7 +2,7 @@
 /**
  * Plugin Ajaxrating
  * 
- * v1.0 Apr 29 2013
+ * v0.2 04/10/2013
  *
  * @author Cyril MAGUIRE
  **/
